@@ -8,7 +8,7 @@
 - #### **[x] Aula 3 – Instalando o JDK no seu Computador**
 - #### **[x] Aula 4 – Primeiro Programa em Java**
 - #### **[x] Aula 5 – Introdução ao Swing e JavaFXt**
-- #### **[ ] Aula 6 – Tipos Primitivos e Manipulação de Dados**
+- #### **[x] Aula 6 – Tipos Primitivos e Manipulação de Dados**
 - #### **[ ] Aula 7 – Operadores Aritméticos e Classe Math**
 - #### **[ ] Aula 8 – Operadores Lógicos e Relacionais**
 - #### **[ ] Aula 9 – Estruturas Condicionais (Parte 1)**
