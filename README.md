@@ -9,9 +9,9 @@
 - #### **[x] Aula 4 – Primeiro Programa em Java**
 - #### **[x] Aula 5 – Introdução ao Swing e JavaFXt**
 - #### **[x] Aula 6 – Tipos Primitivos e Manipulação de Dados**
-- #### **[ ] Aula 7 – Operadores Aritméticos e Classe Math**
-- #### **[ ] Aula 8 – Operadores Lógicos e Relacionais**
-- #### **[ ] Aula 9 – Estruturas Condicionais (Parte 1)**
+- #### **[X] Aula 7 – Operadores Aritméticos e Classe Math**
+- #### **[X] Aula 8 – Operadores Lógicos e Relacionais**
+- #### **[X] Aula 9 – Estruturas Condicionais (Parte 1)**
 - #### **[ ] Aula 10 – Estruturas Condicionais (Parte 2)**
 - #### **[ ] Aula 11 – Estruturas de Repetição (Parte 1)**
 - #### **[ ] Aula 12 – Estruturas de Repetição (Parte 2)**
@@ -20,3 +20,4 @@
 - #### **[ ] Aula 15 – Métodost**
 - #### **[ ] Teste de Java**
 - #### **[x] Udemy Primeiros Paços**
+"
