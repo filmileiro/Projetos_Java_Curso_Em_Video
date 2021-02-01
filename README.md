@@ -13,7 +13,7 @@
 - #### **[X] Aula 8 – Operadores Lógicos e Relacionais**
 - #### **[X] Aula 9 – Estruturas Condicionais (Parte 1)**
 - #### **[x] Aula 10 – Estruturas Condicionais (Parte 2)**
-- #### **[ ] Aula 11 – Estruturas de Repetição (Parte 1)**
+- #### **[x] Aula 11 – Estruturas de Repetição (Parte 1)**
 - #### **[ ] Aula 12 – Estruturas de Repetição (Parte 2)**
 - #### **[ ] Aula 13 – Estruturas de Repetição (Parte 3)**
 - #### **[ ] Aula 14 – Vetores**
