@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SomaSwing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JavaSwing/SomaSwing/dist/SomaSwing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaSwing/CalcNotasSwing/CalcNotasSwing.iml" filepath="$PROJECT_DIR$/JavaSwing/CalcNotasSwing/CalcNotasSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSwing/CalculadoraIdade/CalculadoraIdade.iml" filepath="$PROJECT_DIR$/JavaSwing/CalculadoraIdade/CalculadoraIdade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1- EstruturaSequencial/CalculandoNotas/CalculandoNotas.iml" filepath="$PROJECT_DIR$/1- EstruturaSequencial/CalculandoNotas/CalculandoNotas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSwing/HoraDoSistema/HoraDoSistema.iml" filepath="$PROJECT_DIR$/JavaSwing/HoraDoSistema/HoraDoSistema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFx/IdiomaDoSistema/IdiomaDoSistema.iml" filepath="$PROJECT_DIR$/JavaFx/IdiomaDoSistema/IdiomaDoSistema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSwing/IdiomaSistemaSwing/IdiomaSistemaSwing.iml" filepath="$PROJECT_DIR$/JavaSwing/IdiomaSistemaSwing/IdiomaSistemaSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFx/OlaMundoJavaFx/OlaMundoJavaFx.iml" filepath="$PROJECT_DIR$/JavaFx/OlaMundoJavaFx/OlaMundoJavaFx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSwing/OlaMundoSwing/OlaMundoSwing.iml" filepath="$PROJECT_DIR$/JavaSwing/OlaMundoSwing/OlaMundoSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1- EstruturaSequencial/PrimeiroPrograma/PrimeiroPrograma.iml" filepath="$PROJECT_DIR$/1- EstruturaSequencial/PrimeiroPrograma/PrimeiroPrograma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projetos_Java_Curso_Em_Video.iml" filepath="$PROJECT_DIR$/Projetos_Java_Curso_Em_Video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSwing/RelogioSwing/RelogioSwing.iml" filepath="$PROJECT_DIR$/JavaSwing/RelogioSwing/RelogioSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSwing/ResolucaoDeTelaSwing/ResolucaoDeTelaSwing.iml" filepath="$PROJECT_DIR$/JavaSwing/ResolucaoDeTelaSwing/ResolucaoDeTelaSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSwing/ResolucaoTelaSwing/ResolucaoTelaSwing.iml" filepath="$PROJECT_DIR$/JavaSwing/ResolucaoTelaSwing/ResolucaoTelaSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSwing/SomaSwing/SomaSwing.iml" filepath="$PROJECT_DIR$/JavaSwing/SomaSwing/SomaSwing.iml" />
+    </modules>
+  </component>
+</project>

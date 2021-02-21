@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="IdiomaSistemaSwing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JavaSwing/IdiomaSistemaSwing/dist/IdiomaSistemaSwing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

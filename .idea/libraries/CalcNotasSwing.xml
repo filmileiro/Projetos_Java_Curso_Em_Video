@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CalcNotasSwing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JavaSwing/CalcNotasSwing/dist/CalcNotasSwing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
