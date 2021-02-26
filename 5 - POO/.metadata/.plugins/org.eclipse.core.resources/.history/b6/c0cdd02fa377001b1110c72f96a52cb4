@@ -1,0 +1,77 @@
+package caderneta_escolar;
+
+import java.util.Locale;
+import java.util.Scanner;
+import calcNotas.NotasAlunos;
+
+
+public class NotasAlnos {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		Scanner sc = new  Scanner(System.in);
+		
+		System.out.println("ESCOLA DOM VITAL");
+		System.out.println();
+		System.out.println("Professor William B. Pereira");
+		System.out.println();
+		
+		NotasAlunos semestre1, semestre2;
+		
+		semestre1 = new NotasAlunos();
+		semestre2 = new NotasAlunos(); 
+		
+		System.out.println();
+		System.out.println("Entre com as notas do aluno: ");
+		System.out.println();
+		
+		System.out.println("Semestre 1°: ");
+		System.out.println();
+		
+		semestre1.n1 = sc.nextDouble();
+		if (semestre1.n1 > 10 && semestre1.n1 < 0) {
+			System.out.println("ENTRE COM UMA NOTA VÁLIDA ");
+			System.out.println();
+			semestre1.n1 = sc.nextDouble();
+		}
+		semestre1.n2 = sc.nextDouble();
+		
+		semestre1.n3 = sc.nextDouble();
+		
+		System.out.println();
+		System.out.println("Semestre 2º:  ");
+		
+		semestre2.n1 = sc.nextDouble();
+
+		semestre2.n2 = sc.nextDouble();
+		
+		semestre2.n3 = sc.nextDouble();
+		
+		
+		
+		double mediaS1 = semestre1.n1 + semestre1.n2 + semestre1.n3;
+		double mediaS2 = semestre2.n1 + semestre2.n2 + semestre2.n3;
+		
+		double mediaFinal = (mediaS1 + mediaS2) / 6.0;
+		
+	
+		
+		if (mediaFinal < 6) {
+			System.out.println();
+			System.out.printf("Média Final %.2f%n ", mediaFinal);
+			System.out.println("Aluno Reprovado");
+		}else {
+			System.out.println();
+			System.out.printf("Média Final %.2f%n", mediaFinal);
+			System.out.println("Aluno Aprovado ");
+		}
+			
+		
+		
+		sc.close();
+		
+		
+
+	}
+
+}

@@ -1,0 +1,41 @@
+package caderneta_escolar;
+
+import java.util.Locale;
+import java.util.Scanner;
+import calcNotas.NotasAlunos;
+
+
+public class NotasAlnos {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		Scanner sc = new  Scanner(System.in);
+		
+		System.out.println("ESCOLA DOM VITAL");
+		System.out.println();
+		System.out.println("Professor William B. Pereira");
+		System.out.println(]);
+		
+		new NotasAlunos;
+		
+		semestre1 = new NotasAlunos();
+		semestre2 = new NotasAlunos(); 
+		
+		
+		media = (semestre1 + semestre2) / 6;
+		
+		if(media > 6.0 && media < 10.0) {
+			System.out.println("Aluno foi Aprofado");
+		}else{
+			System.out.println("Aluno foi Reprovado");
+		}
+		
+		
+		
+		sc.close();
+		
+		
+
+	}
+
+}
