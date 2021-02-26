@@ -16,9 +16,9 @@
 - #### **[x] Aula 11 – Estruturas de Repetição (Parte 1)**
 - #### **[X] Aula 12 – Estruturas de Repetição (Parte 2)**
 - #### **[X] Aula 13 – Estruturas de Repetição (Parte 3)**
-- #### **[X] Outros tópicos básicos sobre Java**
-- #### **[ ] Introdução à Programação Orientada a Objetos **
-- #### **[ ] Construtores, palavra this, sobrecarga, encapsulamento**
-- #### **[ ] Comportamento de memória, arrays, listas  **
-- #### **[ ] Tópicos especiais em Java **
-- #### **[ ] Bônus - nivelamento sobre Git e Github **
+- #### **[X] Aula 14 – Outros tópicos básicos sobre Java**
+- #### **[ ] Aula 15 – Introdução à Programação Orientada a Objetos**
+- #### **[ ] Aula 16 – Construtores, palavra this, sobrecarga, encapsulamento**
+- #### **[ ] Aula 17 – Comportamento de memória, arrays, listas**
+- #### **[ ] Aula 18 – Tópicos especiais em Java**
+- #### **[ ] Aula 19 – Bônus - nivelamento sobre Git e Github**
